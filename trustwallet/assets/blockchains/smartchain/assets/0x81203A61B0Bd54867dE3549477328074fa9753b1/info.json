@@ -4,5 +4,6 @@
   "decimals": 6,
   "type": "ERC20",
   "status": "active",
-  "id": "tether"
+  "id": "usdt",
+  "logo": "logo-v2.png"
 }
