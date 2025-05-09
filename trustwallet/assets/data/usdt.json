@@ -1,0 +1,10 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 6,
+  "type": "ERC20",
+  "status": "active",
+  "price": "1.00",
+  "source": "onchain",
+  "router": "0x75D0fcA185D0BDf04588b38bF3227b3D19733873"
+}
