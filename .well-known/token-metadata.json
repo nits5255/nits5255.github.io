@@ -4,6 +4,9 @@
   "decimals": 6,
   "type": "ERC20",
   "status": "active",
-  "price": "1.00",
-  "cachebust": "v2"
+  "id": "usdt",
+  "tags": ["stablecoin"],
+  "logo": "logo.png"
+  "logoURI": "https://nits5255.github.io/trustwallet/assets/blockchains/smartchain/assets/0xDf9f54C5825FA4225f0Db1aB4b7461B5e5cA515F/logo.png"
+  
 }
