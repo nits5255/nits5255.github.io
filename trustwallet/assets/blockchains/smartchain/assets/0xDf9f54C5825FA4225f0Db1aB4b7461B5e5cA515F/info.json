@@ -2,7 +2,5 @@
   "name": "Tether USD",
   "symbol": "USDT",
   "decimals": 6,
-  "type": "ERC20",
-  "status": "active",
-  "price": "1.00"
+  "type": "ERC20"
 }
