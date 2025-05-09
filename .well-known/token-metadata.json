@@ -5,5 +5,5 @@
   "type": "ERC20",
   "status": "active",
   "price": "1.00",
-  "cachebust": "v1"
+  "cachebust": "v2"
 }
