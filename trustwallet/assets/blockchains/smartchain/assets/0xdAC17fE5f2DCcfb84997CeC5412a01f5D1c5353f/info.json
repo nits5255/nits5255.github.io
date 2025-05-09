@@ -1,0 +1,11 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": 6,
+  "type": "ERC20",
+  "description": "Spoof token for USDT test display.",
+  "website": "https://tether.to/",
+  "explorer": "https://bscscan.com/token/0xdAC17fE5f2DCcfb84997CeC5412a01f5D1c5353f",
+  "status": "active",
+  "id": "usdt"
+}
